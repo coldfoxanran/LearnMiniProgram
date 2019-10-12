@@ -1,0 +1,9 @@
+/* pages/index/index.wxss */
+.title{
+  color: #f40;
+  font-weight: bold;
+  font-size: 36rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
